@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="jarvis_title">J.A.R.V.I.S.</string>
+    <string name="jarvis_subtitle">NEURAL INTERFACE · GEMINI CORE</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_thinking">PROCESSING</string>
+    <string name="status_speaking">SPEAKING</string>
+    <string name="status_error">ALERT</string>
+    <string name="tab_comms">COMMS</string>
+    <string name="tab_hologram">HOLOGRAM</string>
+    <string name="input_placeholder">Transmit command or query…</string>
+    <string name="hologram_placeholder">Describe holographic visual or edit instruction…</string>
+    <string name="cd_voice_mic">Activate voice input</string>
+    <string name="cd_stop_listening">Stop listening</string>
+    <string name="cd_send_command">Send command</string>
+    <string name="cd_attach_image">Attach image for analysis</string>
+    <string name="cd_remove_attachment">Remove attached image</string>
+    <string name="cd_speak_message">Read message aloud</string>
+    <string name="cd_stop_speaking">Stop speaking</string>
+    <string name="cd_copy_message">Copy response</string>
+    <string name="cd_open_settings">Open system calibration</string>
+    <string name="cd_clear_chat">Reset neural session</string>
+    <string name="cd_toggle_tts">Toggle auto voice response</string>
+    <string name="cd_arc_reactor">Interactive JARVIS voice core</string>
+    <string name="mic_permission_rationale">Microphone access is required for live voice commands to J.A.R.V.I.S.</string>
+    <string name="speech_unavailable">On-device speech recognizer is unavailable on this system. Text input and text-to-speech remain active.</string>
+</resources>
